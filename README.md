@@ -8,7 +8,7 @@ This repository includes code to reproduce the results in manuscript: _________
 ## Obtaining the code and data  
 
 * although not necessary, these analyses are intended to be run in Podman
-  * 
+  *       
 
 * data files are not available on the Podman image but available here: ________
   * data files can be downloaded using `R/download_data.R`
@@ -16,9 +16,9 @@ This repository includes code to reproduce the results in manuscript: _________
 
 ## Reproducing these results
 
-* all analyses can be run to reproduce these results by running _________
+* all analyses can be run to reproduce these results by running the `_targets.R` script
+  *     
   *    
-  * 
 
   
 
